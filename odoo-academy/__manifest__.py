@@ -24,5 +24,5 @@
         'demo/academy_demo.xml',
         ],
     
-    'license': 'OPL-1'
+    'license': 'MIT'
 }
