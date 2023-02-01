@@ -1,5 +1,5 @@
 from odoo import models, fields, api
-
+from datetime import timedelta
 class Session(models.Model):
     _name = 'academy.session'
     _description = 'Session Info'
